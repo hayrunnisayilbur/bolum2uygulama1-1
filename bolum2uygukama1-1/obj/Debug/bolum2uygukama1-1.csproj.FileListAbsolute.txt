@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\obj\Debug\bolum2uygukama1-1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\obj\Debug\bolum2uygukama1-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\obj\Debug\bolum2uygukama1_1.lblDurum.resources
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\obj\Debug\bolum2uygukama1_1.Properties.Resources.resources
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\obj\Debug\bolum2uygukama1-1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\obj\Debug\bolum2uygukama1-1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\bin\Debug\bolum2uygukama1-1.exe.config
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\bin\Debug\bolum2uygukama1-1.exe
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\bin\Debug\bolum2uygukama1-1.pdb
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\obj\Debug\bolum2uygukama1-1.exe
+C:\Users\User\source\repos\bolum2uygukama1-1\bolum2uygukama1-1\obj\Debug\bolum2uygukama1-1.pdb
